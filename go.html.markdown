@@ -427,8 +427,8 @@ There you can follow the tutorial, play interactively, and read lots.
 Aside from a tour, [the docs](https://golang.org/doc/) contain information on
 how to write clean and effective Go code, package and command docs, and release history.
 
-The language definition itself is highly recommended. It's easy to read
-and amazingly short (as language definitions go these days.)
+The [language specification](https://golang.org/ref/spec) itself is highly recommended. It's easy to read
+and amazingly short (as language specifications go these days.)
 
 You can play around with the code on [Go playground](https://play.golang.org/p/tnWMjr16Mm). Try to change it and run it from your browser! Note that you can use [https://play.golang.org](https://play.golang.org) as a [REPL](https://en.wikipedia.org/wiki/Read-eval-print_loop) to test things and code in your browser, without even installing Go.
 
